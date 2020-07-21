@@ -1,9 +1,0 @@
-john hopkins is situated at baltimore,marylan
-university of california's bioinformatics courses are good
-The third line.
-alamin khan
-<<<<<<< HEAD
-i studied in bmb
-=======
-i studied in biochemistry
->>>>>>> bon-jure
